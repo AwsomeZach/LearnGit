@@ -1,4 +1,4 @@
 # LearnGit
 
 Hellow World
-I am greatful to have this oportunity to lean Git.
+I am grateful to have this oportunity to lean Git.
